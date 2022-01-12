@@ -3,10 +3,9 @@
 
 "Life is like riding a bicycle. To keep your balance you must keep moving."
 <br>
-
-<!-- Your badges -->
 Connect With me!
 <br>
+<!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-negi-6152721b3)
 [![HackerRank](https://img.shields.io/badge/-riyasnegi12-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/riyasnegi12)
 [![Instagram](https://img.shields.io/badge/-riya_negi12-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/riya_negi12/)
