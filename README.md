@@ -2,7 +2,7 @@
 <br>
 
 "Life is like riding a bicycle. To keep your balance you must keep moving."
-<br>
+<br><br>
 Connect With me!
 <br>
 <!-- Your badges -->
