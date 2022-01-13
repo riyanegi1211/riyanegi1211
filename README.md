@@ -1,18 +1,15 @@
-### Hi, I am Riya! 👋
-<br>
+<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Riya Negi !</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-"Life is like riding a bicycle. To keep your balance you must keep moving."
-<br><br>
-Connect With me!
-<br>
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Riya-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/riya-negi-6152721b3)
-[![HackerRank](https://img.shields.io/badge/-riyasnegi12-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/riyasnegi12)
-[![Instagram](https://img.shields.io/badge/-riya_negi12-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/riya_negi12/)
-<!--[![GCP](https://img.icons8.com/color/65/000000/google-cloud)](https://www.cloudskillsboost.google/public_profiles/bd8ab0cc-28af-46ba-9515-830c1b90da95)-->
-[![Gmail](https://img.shields.io/badge/-riyasnegi12-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:riyasnegi12@gmail.com)
-![](https://komarev.com/ghpvc/?username=riyanegi1211&style=flat)
-<br>
+
+<h3 align="center">I am a Passionate Front-end Developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=riyanegi1211&label=Profile%20views&color=0e75b6&style=flat" alt="riyanegi1211" /> <a href="https://github.com/riyanegi1211?tab=followers"><img src="https://img.shields.io/github/followers/riyanegi1211?label=Followers&style=social" alt="GitHub Badge"></a> </p>
+
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/source.gif" />
+
+<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
+
+
 ### [**`My Projects`**](https://github.com/riyanegi1211?tab=projects)<br>
 
 - Color Detection with Speech
@@ -33,8 +30,20 @@ Connect With me!
 
 <br><br>
 <!-- GitHub README Stats -->
-[![Riya’s github stats](https://github-readme-stats.vercel.app/api?username=riyanegi1211)](https://github.com/riyanegi1211)
+### ⚙️ &nbsp;GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riyanegi1211&layout=compact)](https://github.com/riyanegi1211)
+<p align="center">
+<a href="https://github.com/riyanegi1211">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyanegi1211&show_icons=true&locale=en&layout=compact&theme=gotham" alt="riyanegi1211" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyanegi1211&show_icons=true&locale=en&theme=gotham" alt="riyanegi1211" />
+</a>
+</p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyanegi1211&show_icons=true&theme=gotham" alt="riyanegi1211" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.instagram.com/riya_negi12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riya-negi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/riyasnegi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riysnegi12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riya-negi-6152721b3//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-negi-6152721b3/" height="30" width="40" /></a>
 
 <h4 align="left"> Thanks for viewing my profile! :innocent:</h4> </p>
