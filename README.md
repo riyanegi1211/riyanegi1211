@@ -2,7 +2,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 
-<h3 align="center">I am a Passionate Front-end Developer</h3>
+<h3 align="center">I am a passionate learner and a coding enthusiast</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=riyanegi1211&label=Profile%20views&color=0e75b6&style=flat" alt="riyanegi1211" /> <a href="https://github.com/riyanegi1211?tab=followers"><img src="https://img.shields.io/github/followers/riyanegi1211?label=Followers&style=social" alt="GitHub Badge"></a> </p>
 
 <img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/source.gif" />
