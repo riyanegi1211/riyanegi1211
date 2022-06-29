@@ -1,32 +1,38 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Riya Negi !</h1>
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi 👋, I'm Riya Negi</h1>
+<h3 align="center">I'm a CSE undergraduate.</h3>
+
+- 🔭 I’m currently exploring **Machine Learning, Deep Learning and Web Development.**
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+
+- 👨‍💻 All of my projects are available at [Github.](https://github.com/riyanegi1211)
+
+- 📫 How to reach me **riyasnegi12@gmail.com**
+- 🤝 **Let's collaborate!** 
+
+***
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.codechef.com/users/riya_negi12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="riya_negi12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/riya_negi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="riya_negi12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/riyasnegi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riysnegi12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/riya-negi-6152721b3//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-negi-6152721b3/" height="30" width="40" /></a>
 
 
-<h3 align="center">I am a passionate learner and a coding enthusiast</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=riyanegi1211&label=Profile%20views&color=0e75b6&style=flat" alt="riyanegi1211" /> <a href="https://github.com/riyanegi1211?tab=followers"><img src="https://img.shields.io/github/followers/riyanegi1211?label=Followers&style=social" alt="GitHub Badge"></a> </p>
-
-<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/dtra4r7NXUlI5XRfOR/source.gif" />
-
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;About me ....</h3>
-
-
-### [**`My Projects`**](https://github.com/riyanegi1211?tab=projects)<br>
-
-- Color Detection with Speech
-- Voice based Email For visually impaired people
-- Temperature and Humidity Sensor
-- Webpages
-<br>
-
-### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
- `Tool` | `Purpose`
----|---
-`C`, `C++`, `Java`, `Python` | Programming Language
-`git` | Version-Control
-`VSCode`, `Sublime`, `PyCharm` | Editor
-`SQL`, `Oracle`, `OpenCV` | Other Tools
-`HTML`, `CSS`, `Bootstrap`, `PHP` | WebDev
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyanegi1211&show_icons=true&theme=gotham" alt="riyanegi1211" /></p>
 
 <br><br>
 <!-- GitHub README Stats -->
@@ -38,12 +44,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyanegi1211&show_icons=true&locale=en&theme=gotham" alt="riyanegi1211" />
 </a>
 </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyanegi1211&show_icons=true&theme=gotham" alt="riyanegi1211" /></p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.instagram.com/riya_negi12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riya-negi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/riyasnegi12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riysnegi12" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/riya-negi-6152721b3//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-negi-6152721b3/" height="30" width="40" /></a>
 
 <h4 align="left"> Thanks for viewing my profile! :innocent:</h4> </p>
