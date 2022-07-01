@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Riya Negi</h1>
 <h3 align="center">I'm a CSE undergraduate.</h3>
 
-- 🔭 I’m currently exploring **Machine Learning, Deep Learning and Web Development.**
+- 🔭 I’m currently exploring **Machine Learning, Deep Learning and Full Stack Web Development.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
