@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riya Negi</h1>
 <h3 align="center">I'm a CSE undergraduate.</h3>
 
-- 🔭 I’m currently exploring **Machine Learning, Deep Learning and Full Stack Web Development.**
+- 🔭 I’m currently learning **Java and Spring boot.**
 
-- 🌱 I’m currently working in **Wissen Technology Pvt Ltd** as a Trainee Analyst Intern.
+- 🌱 I’m currently working at **Wissen Technology Pvt Ltd** as a Trainee Analyst Intern.
 
 - 👨‍💻 All of my projects are available at [Github.](https://github.com/riyanegi1211)
 
