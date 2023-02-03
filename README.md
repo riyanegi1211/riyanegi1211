@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently exploring **Machine Learning, Deep Learning and Full Stack Web Development.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently working in **Wissen Technology Pvt Ltd** as a Trainee Analyst Intern.
 
 - 👨‍💻 All of my projects are available at [Github.](https://github.com/riyanegi1211)
 
-- 📫 How to reach me **riyasnegi12@gmail.com**
+- 📫 How to reach me **recruit.riyanegi2023@gmail.com**
 - 🤝 **Let's collaborate!** 
 
 ***
