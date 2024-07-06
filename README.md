@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Negi</h1>
-<h3 align="center">I'm a CSE graduate.</h3>
+<h3 align="center">I'm a CSE Graduate.</h3>
 
 - 🔭 I’m currently learning **Java and Spring boot.**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github.](https://github.com/riyanegi1211)
 
-- 📫 How to reach me **recruit.riyanegi2023@gmail.com**
+- 📫 How to reach me **riyasnegi12@gmail.com**
 - 🤝 **Let's collaborate!** 
 
 ***
