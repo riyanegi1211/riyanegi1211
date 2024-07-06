@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riya Negi</h1>
-<h3 align="center">I'm a CSE undergraduate.</h3>
+<h3 align="center">I'm a CSE graduate.</h3>
 
 - 🔭 I’m currently learning **Java and Spring boot.**
 
